@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hmon/express-sanitize-html/issues"
   },
-  "homepage": "https://github.com/hmon/express-sanitize-html#readme"
+  "homepage": "https://github.com/hmon/express-sanitize-html#readme",
+  "dependencies": {
+    "sanitize-html": "^1.20.0"
+  }
 }
