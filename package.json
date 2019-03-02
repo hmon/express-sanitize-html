@@ -1,0 +1,22 @@
+{
+  "name": "express-sanitize-html",
+  "version": "1.0.0",
+  "description": "Express middleware for sanitize-html",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmon/express-sanitize-html.git"
+  },
+  "author": "Alireza Hamoony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmon/express-sanitize-html/issues"
+  },
+  "homepage": "https://github.com/hmon/express-sanitize-html#readme"
+}
